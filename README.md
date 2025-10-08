@@ -46,5 +46,6 @@ All content is **non-functional** and created for **educational cybersecurity le
 Intended for ethical hacking, digital forensics, and defensive research contexts.
 
 ---
-
+## Credits
+Inspired by [Blank Stealer](https://github.com/WAJLgit/Blank-stealer) and [PySIlon](https://github.com/mategol/PySilon-malware)
 ---
