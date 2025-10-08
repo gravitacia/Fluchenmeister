@@ -38,7 +38,6 @@ By studying simulated attack chains, users can gain insight into:
 - **MORE**
 
 </details>
----
 
 ## Status
 
