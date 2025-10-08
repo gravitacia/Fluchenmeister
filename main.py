@@ -1,3 +1,3 @@
-from components.info import os_name
+from components.antivm import VmProtect
 
-print(os_name)
+print(VmProtect.isVM())
