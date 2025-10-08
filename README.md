@@ -21,20 +21,20 @@ By studying simulated attack chains, users can gain insight into:
 <details>
 <summary>Feature List</summary>
 
-- 🧩 **Cookie Stealing**
-- 🪙 **Discord token stealing**
-- ~~💻 System Information Retrieval~~
-- ~~🧠 Virtual Machine Detection~~
-- 🛡️ **Windows Defender Bypass**
-- 🌐 **Browser data retiriever** (autofills, passwords, storage)
-- ~~📸 Webcam Snapshot~~
-- ~~🖼️ Screenshot Capture~~
-- ⚙️ **Persistence Mechanism** (task scheduler, WMI, startup)
-- 💼 **Cryptocurrency Wallet Stealer**
-- 💳 **Credit Card Retriever**
-- 🎮 **Minecraft Session Stealer**
-- 🤖 **Roblox Cookie Stealer with custom design**
-- 🔥 **Steam/Epic/Uplay/Other sessions**
+- 🧩 **Cookie Stealing** (WIP)
+- 🪙 **Discord token stealing** (WIP)
+- 💻 System Information Retrieval (✅️)
+- 🧠 Virtual Machine Detection (✅️)
+- 🛡️ **Windows Defender Bypass** (WIP)
+- 🌐 **Browser data retiriever**  (autofills, passwords, storage) (WIP)
+- 📸 Webcam Snapshot (✅️)
+- 🖼️ Screenshot Capture (✅️)
+- ⚙️ **Persistence Mechanism** (task scheduler, WMI, startup) (WIP)
+- 💼 **Cryptocurrency Wallet Stealer** (WI
+- 💳 **Credit Card Retriever** (WIP)
+- 🎮 **Minecraft Session Stealer** (WIP)
+- 🤖 **Roblox Cookie Stealer with custom design** (WIP)
+- 🔥 **Steam/Epic/Uplay/Other sessions** (WIP)
 - **MORE**
 
 </details>
