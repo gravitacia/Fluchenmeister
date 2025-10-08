@@ -32,7 +32,7 @@ By studying simulated attack chains, users can gain insight into:
 - ⚙️ **Persistence Mechanism** (task scheduler, WMI, startup) (✅️)
 - 💼 **Cryptocurrency Wallet Stealer** (WI
 - 💳 **Credit Card Retriever** (WIP)
-- 🎮 **Minecraft Session Stealer** (WIP)
+- 🎮 **Minecraft Session Stealer** (✅️)
 - 🤖 **Roblox Cookie Stealer with custom design** (WIP)
 - 🔥 **Steam/Epic/Uplay/Other sessions** (WIP)
 - **MORE**
