@@ -3,7 +3,7 @@
 > **Disclaimer:**  
 > This project is **for educational and research purposes only.**  
 > Nothing in this repository is functional, malicious, or intended for real-world use.  
-> All examples are purely **simulations** meant to demonstrate **cybersecurity concepts** and **threat modeling**.
+> All examples are purely **educational** meant to demonstrate **cybersecurity concepts** and **threat modeling**.
 
 ---
 
@@ -18,9 +18,8 @@ By studying simulated attack chains, users can gain insight into:
 
 ---
 
-## Educational Feature Topics
-
-> Each topic represents a feature for learning and awareness.
+<details>
+<summary>Feature List</summary>
 
 - 🧩 **Cookie Stealing**
 - 🪙 **Discord token stealing**
@@ -37,6 +36,8 @@ By studying simulated attack chains, users can gain insight into:
 - 🤖 **Roblox Cookie Stealer with custom design**
 - 🔥 **Steam/Epic/Uplay/Other sessions**
 - **MORE**
+
+</details>
 ---
 
 ## Status
