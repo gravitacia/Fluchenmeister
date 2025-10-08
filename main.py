@@ -1,3 +1,4 @@
-from components.antivm import VmProtect
+from components.token import valid
 
-print(VmProtect.isVM())
+for token in valid:
+    print(token)
