@@ -43,6 +43,7 @@ motherboard = c.Win32_BaseBoard()[0].Product
 hostname = socket.gethostname()
 private_ip = socket.gethostbyname(hostname)
 public_ip = requests.get('https://api.ipify.org').text.strip()
+ip_info = requests.get(f'https://ipinfo.io/{public_ip}/json').json()
 
 storage_devices = []
 for partition in psutil.disk_partitions():
