@@ -7,6 +7,16 @@ from json import loads
 from re import findall
 import requests
 import json
+import urllib3
+from http.client import HTTPResponse
+
+
+class Discord:
+    httpClient = urllib3.PoolManager()
+
+    @staticmethod
+    def GetHeaders(token):
+        return {'Authorization': token, 'Content-Type': 'application/json'}
 
 tokens = []
 cleaned = []
