@@ -9,7 +9,7 @@
 
 ## Overview
 
-**Fluchenmeister** is a *work-in-progress (WIP)* educational project designed to help learners understand how data theft techniques work — and, more importantly, how to **defend against them**.  
+**Fluchenmeister** is a *work-in-progress (WIP)* educational project designed to help learners understand how data theft techniques work - and, more importantly, how to **defend against them**.  
 
 By studying simulated attack chains, users can gain insight into:
 - How information can be compromised.
