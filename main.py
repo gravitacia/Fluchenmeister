@@ -5,8 +5,7 @@ import tempfile
 import shutil
 import uuid
 import atexit
-
-from components import isvm
+from components import *
 
 def is_admin():
     try:
@@ -15,6 +14,7 @@ def is_admin():
         return False
 
 def main():
+    bypass()
     pass
 
 if __name__ == "__main__":
