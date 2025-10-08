@@ -37,7 +37,6 @@ def get_launcher_profiles():
     return {}
 
 def main():
-    print("extracting minecraft data...")
     sessions_data = extract_sessions()
     launcher_profiles = get_launcher_profiles()
     
@@ -51,18 +50,3 @@ def main():
         "launcher_profiles": launcher_profiles
     }
     
-    if combined_data["sessions"]["accounts"]:
-        print(f"found {len(combined_data['sessions']['accounts'])} accounts/sessions.")
-    else:
-        print("no sessions found.")
-    
-    if combined_data["launcher_profiles"]:
-        print("launcher profiles data included.")
-    else:
-        print("no launcher_profiles.json found.")
-    
-    print("all data stored in 'combined_data' variable:")
-    print(combined_data)
-
-if __name__ == "__main__":
-    main()
