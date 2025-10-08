@@ -47,5 +47,5 @@ Intended for ethical hacking, digital forensics, and defensive research contexts
 
 ---
 ## Credits
-Inspired by [Blank Stealer](https://github.com/WAJLgit/Blank-stealer) and [PySilon](https://github.com/mategol/PySilon-malware)
+Inspired by [Blank Grabber](https://github.com/Blank-c/Blank-Grabber) and [PySilon](https://github.com/mategol/PySilon-malware)
 ---
