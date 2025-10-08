@@ -25,7 +25,7 @@ By studying simulated attack chains, users can gain insight into:
 - 🪙 **Discord token stealing** (✅️)
 - 💻 System Information Retrieval (✅️)
 - 🧠 Virtual Machine Detection (✅️)
-- 🛡️ **Windows Defender Bypass** (WIP)
+- 🛡️ **Windows Defender Bypass** (✅️)
 - 🌐 **Browser data retiriever**  (autofills, passwords, storage) (WIP)
 - 📸 Webcam Snapshot (✅️)
 - 🖼️ Screenshot Capture (✅️)
