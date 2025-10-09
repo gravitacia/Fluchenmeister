@@ -21,7 +21,7 @@ By studying simulated attack chains, users can gain insight into:
 <details>
 <summary>Feature List</summary>
 
-- 🧩 **Cookie Stealing** (WIP)
+- 🧩 **Cookie Stealing** (✅️)
 - 🪙 **Discord token stealing** (✅️)
 - 💻 System Information Retrieval (✅️)
 - 🧠 Virtual Machine Detection (✅️)
