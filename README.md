@@ -30,7 +30,7 @@ By studying simulated attack chains, users can gain insight into:
 - 📸 Webcam Snapshot (✅️)
 - 🖼️ Screenshot Capture (✅️)
 - ⚙️ **Persistence Mechanism** (task scheduler, WMI, startup) (✅️)
-- 💼 **Cryptocurrency Wallet Stealer** (WI
+- 💼 **Cryptocurrency Wallet Stealer** (WIP)
 - 💳 **Credit Card Retriever** (WIP)
 - 🎮 **Minecraft Session Stealer** (✅️)
 - 🤖 **Roblox Cookie Stealer with custom design** (✅️)
